@@ -1,3 +1,4 @@
 fastapi
 selenium
-python - dotenv
+python_dotenv
+fints
